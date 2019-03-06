@@ -1,0 +1,21 @@
+body {
+  font-family: "Open Sans", "Arial", sans-serif;
+  color: $base-color;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+body button,
+body input {
+  font-family: inherit;
+  outline: none;
+}
